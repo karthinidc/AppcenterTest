@@ -1,0 +1,6 @@
+module Pods_FireDepartment {
+  umbrella header "Pods-FireDepartment-umbrella.h"
+
+  export *
+  module * { export * }
+}
